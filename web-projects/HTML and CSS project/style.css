@@ -1,0 +1,65 @@
+*{
+  font-family: 'Nuosu SIL', sans-serif;
+  background-color:   rgb(180, 200, 204);
+  font-weight: bold;
+}
+.h1-class{
+  font-size: 30px;
+  color: rgb(86, 55, 10);
+  text-align: center;
+}
+header{
+  border: 10px hidden;
+  background-color: aquamarine;
+}
+.h2-class{
+  font-size: 30px;
+  color: rgba(120, 10, 32, 1);
+}
+.img-edit1{
+  width: 200px;
+  height: 170px;
+  margin: auto;
+}
+.img-edit2{
+  width: 200px;
+  height: 170px;
+  margin: auto;
+}
+.box-container{
+  width: 90%;
+  padding: 20px;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.link-edit{
+  text-align: center;
+  margin: 0;
+}
+.h4-class{
+  color: rgba(120, 10, 32, 1);
+  font-size: 35px;
+}
+.h5-class{
+  text-align: center;
+  color: rgba(120, 10, 32, 1);
+  font-size: 30px;
+}
+
+a.link-edit#img-1:hover{
+  font-size: 20px;
+}
+a.link-edit#img-2:hover{
+  font-size: 20px;  
+}
+.h6-class{
+  margin: 20px auto;
+  color: rgba(120, 10, 32, 1);
+  font-size: 25px;
+}
+.h3-class{
+  font-size: 30px;
+  color: rgba(120, 10, 32, 1);
+}
